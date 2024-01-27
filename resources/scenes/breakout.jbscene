@@ -1060,13 +1060,14 @@
         "value181": 24,
         "value182": 1,
         "value183": {
-            "cereal_class_version": 0,
+            "cereal_class_version": 1,
             "gravityScale": 1.0,
             "staticBody": true,
             "fixRotation": false,
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "cereal_class_version": 0,
@@ -1107,6 +1108,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1145,6 +1147,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1183,6 +1186,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1221,6 +1225,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": false,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1259,6 +1264,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": true,
             "boxes": [],
             "circles": [
                 {
@@ -1295,6 +1301,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1333,6 +1340,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1371,6 +1379,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1409,6 +1418,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1447,6 +1457,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1485,6 +1496,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1523,6 +1535,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1561,6 +1574,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1599,6 +1613,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1637,6 +1652,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1675,6 +1691,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1713,6 +1730,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1751,6 +1769,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1789,6 +1808,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1827,6 +1847,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1865,6 +1886,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1903,6 +1925,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
@@ -1941,6 +1964,7 @@
             "linearDamping": 0.0,
             "angularDamping": 0.0,
             "allowSleep": true,
+            "projectile": false,
             "boxes": [
                 {
                     "value0": {
